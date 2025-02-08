@@ -1,0 +1,1 @@
+ Created an R-based tool to scrape stock names, prices, and fundamental data from Yahoo Finance. The tool generates a detailed data frame for specified ticker symbols. Additionally, I developed a function to visualize stock prices and volumes over the past year with customized overlays for high and low prices using chartSeries
